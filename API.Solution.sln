@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.Boilerplate.Domain", "A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.boilerpalte.Infra", "API.boilerpalte.Infra\API.boilerpalte.Infra.csproj", "{8976419F-6A1D-4555-9938-BA833F40337D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.Boilerplate.Api", "API.Boilerplate.Api\API.Boilerplate.Api.csproj", "{4BEC351F-C1F5-4546-B8B7-50F4BC53DF4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.Boilerplate.Api", "API.Boilerplate.Api\API.Boilerplate.Api.csproj", "{4BEC351F-C1F5-4546-B8B7-50F4BC53DF4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.Boilerplate.Shared", "API.Boilerplate.Shared\API.Boilerplate.Shared.csproj", "{37726F11-E9F7-4BBC-9570-18CDFCB83FBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{4BEC351F-C1F5-4546-B8B7-50F4BC53DF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BEC351F-C1F5-4546-B8B7-50F4BC53DF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BEC351F-C1F5-4546-B8B7-50F4BC53DF4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37726F11-E9F7-4BBC-9570-18CDFCB83FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37726F11-E9F7-4BBC-9570-18CDFCB83FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37726F11-E9F7-4BBC-9570-18CDFCB83FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37726F11-E9F7-4BBC-9570-18CDFCB83FBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
