@@ -6,5 +6,11 @@ namespace API.Boilerplate.Domain.Arguments.Usuario
 {
     public class AdicionarUsuarioResponse
     {
+        private Guid id;
+
+        public AdicionarUsuarioResponse(Guid id)
+        {
+            this.id = id;
+        }
     }
 }
