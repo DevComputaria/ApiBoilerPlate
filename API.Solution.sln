@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Boilerplate.Infra", "Boiler
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.Boilerplate.Domain", "API.Boilerplate.Domain\API.Boilerplate.Domain.csproj", "{860CB042-3720-4E08-BB15-B7EB09DFD9E1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.boilerpalte.Infra", "API.boilerpalte.Infra\API.boilerpalte.Infra.csproj", "{8976419F-6A1D-4555-9938-BA833F40337D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.Boilerplate.Infra", "API.boilerpalte.Infra\API.Boilerplate.Infra.csproj", "{8976419F-6A1D-4555-9938-BA833F40337D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.Boilerplate.Api", "API.Boilerplate.Api\API.Boilerplate.Api.csproj", "{4BEC351F-C1F5-4546-B8B7-50F4BC53DF4D}"
 EndProject
